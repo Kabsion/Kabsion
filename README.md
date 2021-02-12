@@ -9,6 +9,6 @@ I am not responsible if you get disabled by discord because of my scripts.
 # Contact me
 Email: no  (not recommended)
 
-Discord Bio: [Daybreak](https://dsc.bio/kabiongaming) (recommended)
+Discord Bio: [Daybreak](https://dsc.bio/daybreak) (recommended)
 
 [![Daybreak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daybreak-keks&show_icons=true&include_all_commits=true&theme=dracula)]
