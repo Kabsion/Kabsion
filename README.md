@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hiya I'm Daybreaker
 
-<!--
-**Daybreak-keks/Daybreak-keks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dev that was working Mayo bot, I know python and I like helping people out sometimes with discord.py related stuff!
 
-Here are some ideas to get you started:
+All my scripts are free to use and skid since i do not care that much about this anymore!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am not responsible if you get disabled by discord because of my scripts.
+
+# Contact me
+Email: no  (not recommended)
+
+Discord Bio: [Daybreak](https://dsc.bio/kabiongaming) (recommended)
+
+[![Daybreak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daybreak-keks&show_icons=true&include_all_commits=true&theme=dracula)]
