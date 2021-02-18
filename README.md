@@ -7,8 +7,6 @@ All my scripts are free to use and skid since i do not care that much about this
 I am not responsible if you get disabled by discord because of my scripts.
 
 # Contact me
-Email: no  (not recommended)
-
-Discord Bio: [Daybreak](https://dsc.bio/daybreak) (recommended)
+no dont bother lol
 
 [![Daybreak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daybreak-keks&show_icons=true&include_all_commits=true&theme=dracula)]
