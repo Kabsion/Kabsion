@@ -8,5 +8,6 @@ I am not responsible if you get disabled by discord because of my scripts.
 
 # Contact me
 no dont bother lol
+![Daybreak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daybreak-keks&show_icons=true&theme=dracula)
 
-[![Daybreak-kek's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Daybreak-keks&langs_count=4&theme=Dracula)]()
+[![Daybreak-kek's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Daybreak-keks&langs_count=4&theme=dracula)]()
