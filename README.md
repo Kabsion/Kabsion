@@ -15,4 +15,4 @@ If you want to contact me, please open a DM with studiobroadcaster:matrix.org on
 
 
 
-[![Daybreak-kek's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Daybreak-keks&langs_count=4&theme=dracula)]()
+![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daybreak-keks&layout=compact&theme=dracula)
