@@ -7,7 +7,7 @@ All my scripts are free to use and skid since i do not care that much about this
 I am not responsible if you get disabled by discord because of my scripts.
 
 # Contact me
-no dont bother lol
+If you want to contact me, please open a DM with studiobroadcaster:matrix.org on [Matrix](https://element.io)
 
 
 
