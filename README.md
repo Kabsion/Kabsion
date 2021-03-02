@@ -11,7 +11,7 @@ no dont bother lol
 
 
 
-![Daybreak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daybreak-keks&show_icons=true&theme=dracula?count_private=true&show_icons=true&include_all_commits=true)
+![Daybreak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daybreak-keks&show_icons=true&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
 
 
 
