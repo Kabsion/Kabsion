@@ -2,6 +2,8 @@
 
 Shalom! I am a competent python developer with 6+ months of experience, I will make discord bots for you aslong as you pay for nitro or nitro classic.
 
+All my repos are currently private since Yes.
+
 # Contact me
 If you want to contact me, please open a DM with studiobroadcaster:matrix.org on [Matrix](https://element.io)
 
