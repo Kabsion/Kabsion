@@ -1,10 +1,6 @@
 # Hiya I'm Daybreaker
 
-I'm a dev that was working Mayo bot, I know python and I like helping people out sometimes with discord.py related stuff!
-
-All my scripts are free to use and skid since i do not care that much about this anymore!
-
-I am not responsible if you get disabled by discord because of my scripts.
+Shalom! I am a competent python developer with 6+ months of experience, I will make discord bots for you aslong as you pay for nitro or nitro classic.
 
 # Contact me
 If you want to contact me, please open a DM with studiobroadcaster:matrix.org on [Matrix](https://element.io)
