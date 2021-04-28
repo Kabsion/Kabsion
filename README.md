@@ -8,7 +8,7 @@ All my repos are currently private since Yes.
 If you want to contact me, please open a DM with studiobroadcaster:matrix.org on [Matrix](https://element.io) or on [telegram](https://t.me/Kabion)
 
 # Things I want to sell (discord stuff)
-Firebomb - 30+ commands selfbot with some funnies in it 
+Firebomb - 60+ commands selfbot with some funnies in it 
 
 Threaded Nukebot - Easy to use no scraping required nukebot
 
