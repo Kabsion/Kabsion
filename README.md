@@ -2,7 +2,7 @@
 
 Shalom! I am a competent python developer with 6+ months of experience, I will make discord bots for you aslong as you pay for nitro or nitro classic.
 
-I'm also currently learning JS/TS, still pretty bad at it :boohoo:
+I'm also currently learning JS
 
 All my repos are currently private since Yes.
 
