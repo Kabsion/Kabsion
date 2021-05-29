@@ -19,6 +19,12 @@
 * [Telegram](https://t.me/Kabion)
 * [Discord](https://discords.com/bio/p/daybreak)
 
+
+
+
+
+
+
 <p align="center">amongus</p>
 > NOTE: All my repos are currently private since Yes.
 
