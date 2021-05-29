@@ -9,8 +9,6 @@
     <img alt="ya" src="https://cdn.discordapp.com/attachments/826052184713723917/848080274361286676/marchss.gif" align="right" width="500" height="500"/>
 </p>
 
----
-
 <p align="center">
     <h2>Software I use</h2>
     <img src="https://img.shields.io/badge/-PyCharm-7230b5">
