@@ -9,15 +9,18 @@
     <img alt="ya" src="https://cdn.discordapp.com/attachments/826052184713723917/848080274361286676/marchss.gif" align="right" width="500" height="500"/>
 </p>
 
-#### Programs
-- ![ide](https://img.shields.io/badge/-VSCodium-7230b5)
-- ![ide2](https://img.shields.io/badge/-PyCharm-7230b5)
 
 #### Contact Me
 * [Telegram](https://t.me/Kabion)
 * [Discord](https://discords.com/bio/p/daybreak)
 
 <p align="center">
-    Most of my repos are private since yes
+    <h1>Software I use</h1>
+    <img src="https://img.shields.io/badge/-PyCharm-7230b5">
+    <img src="https://img.shields.io/badge/-VSCodium-7230b5">
+
+    
+    
+    <p>Most of my repos are private since yes</p>
 </p>
 
