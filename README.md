@@ -22,10 +22,7 @@
     <a href="https://t.me/Kabion"><br>Telegram</a>
     <strong><br><br>Most of my repos are private since yes</strong>
 </p>
-
-<p align="left">
-    <img alt="john" src="https://cdn.discordapp.com/attachments/609574388882210832/650070498209955881/pedo_weeaboo.gif" align="right" width="500" height="500"/>
-</p>
-<p align="center">this is john</p>
+<img alt="john" src="https://cdn.discordapp.com/attachments/609574388882210832/650070498209955881/pedo_weeaboo.gif" width="500" height="500"/>
+<p>this is john</p>
 
 
