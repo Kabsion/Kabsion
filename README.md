@@ -5,7 +5,9 @@
 
 ---
 
-<img alt="ya" src="https://cdn.discordapp.com/attachments/826052184713723917/848080274361286676/marchss.gif" align="right" width="500" height="500"/>
+<p align="center">
+    <img alt="ya" src="https://cdn.discordapp.com/attachments/826052184713723917/848080274361286676/marchss.gif" align="right" width="500" height="500"/>
+</p>
 
 #### Languages
 - ![Python](https://img.shields.io/badge/-Python-7230b5)
