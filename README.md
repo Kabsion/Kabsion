@@ -20,6 +20,7 @@
     <h2>Contact Me</h2>
     <a href="https://discords.com/bio/p/daybreak">Discord</a>
     <a href="https://t.me/Kabion"><br>Telegram</a>
+    <p>I am not a nazi.</p>
     <strong><br><br>Most of my repos are private since yes</strong>
 </p>
 
