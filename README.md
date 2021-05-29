@@ -12,7 +12,7 @@
 <img alt="ya" src="https://cdn.discordapp.com/attachments/826052184713723917/848080274361286676/marchss.gif" align="right"/>
 
 #### Languages
-- ![python](https://img.shields.io/badge/-Python-FF008F)
+- ![Python](https://img.shields.io/badge/-Python-FF008F)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-FF008F)
 
 #### Programs
@@ -20,9 +20,9 @@
 - ![ide2](https://img.shields.io/badge/-PyCharm-FF008F)
 
 #### Contact Me
-- ![Telegram](https://t.me/Kabion)
-- ![Matrix](https://element.io) (open a dm with studiobroadcaster:matrix.org)
+* ![Telegram](https://t.me/Kabion)
+* ![Discord](https://discords.com/bio/p/daybreak)
 
 > NOTE: All my repos are currently private since Yes.
-> thanks [narumii](https://github.com/narumii) for this readme uwo
+> thanks [narumii](https://github.com/narumii) for this readme
 
