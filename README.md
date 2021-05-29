@@ -15,8 +15,10 @@
     <img src="https://img.shields.io/badge/-PyCharm-7230b5">
     <img src="https://img.shields.io/badge/-VSCodium-7230b5">
     <h2>Contact Me</h2>
-    <a href="https://discords.com/bio/p/daybreak">* Discord<br></a>
-    <a href="https://t.me/Kabion">* Telegram</a>
-    <p><br><br>Most of my repos are private since yes</p>
+    <p>*</p>
+    <a href="https://discords.com/bio/p/daybreak">Discord<br></a>
+    <p>*</p>
+    <a href="https://t.me/Kabion">Telegram<br></a>
+    <p>Most of my repos are private since yes</p>
 </p>
 
