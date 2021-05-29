@@ -24,5 +24,6 @@
 * ![Discord](https://discords.com/bio/p/daybreak)
 
 > NOTE: All my repos are currently private since Yes.
+
 > thanks [narumii](https://github.com/narumii) for this readme
 
