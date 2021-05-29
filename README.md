@@ -15,7 +15,7 @@
 * [Discord](https://discords.com/bio/p/daybreak)
 
 <p align="center">
-    <h1>Software I use</h1>
+    <h2>Software I use</h2>
     <img src="https://img.shields.io/badge/-PyCharm-7230b5">
     <img src="https://img.shields.io/badge/-VSCodium-7230b5">
     <p>Most of my repos are private since yes</p>
