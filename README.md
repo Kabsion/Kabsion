@@ -17,6 +17,6 @@
     <h2>Contact Me</h2>
     <a href="https://discords.com/bio/p/daybreak">Discord</a>
     <a href="https://t.me/Kabion"><br>Telegram</a>
-    <strong><br>Most of my repos are private since yes</strong>
+    <strong><br><br>Most of my repos are private since yes</strong>
 </p>
 
