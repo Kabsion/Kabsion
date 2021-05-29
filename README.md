@@ -15,9 +15,7 @@
     <img src="https://img.shields.io/badge/-VSCodium-7230b5">
     <h2>Languages</h2>
     <p>
-    Python
-    some JS
-    some HTML n' CSS
+    Python<br>some JS<br>some HTML n' CSS
     </p>
     <h2>Contact Me</h2>
     <a href="https://discords.com/bio/p/daybreak">Discord</a>
