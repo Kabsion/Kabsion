@@ -19,8 +19,8 @@
 - ![ide2](https://img.shields.io/badge/-PyCharm-FF008F)
 
 #### Contact Me
-* ![Telegram](https://t.me/Kabion)
-* ![Discord](https://discords.com/bio/p/daybreak)
+* [Telegram](https://t.me/Kabion)
+* [Discord](https://discords.com/bio/p/daybreak)
 
 > NOTE: All my repos are currently private since Yes.
 
