@@ -16,9 +16,9 @@
     <img src="https://img.shields.io/badge/-VSCodium-7230b5">
     <h2>Contact Me</h2>
     <p>*</p>
-    <a href="https://discords.com/bio/p/daybreak">Discord<br></a>
+    <a href="https://discords.com/bio/p/daybreak">Discord</a>
     <p>*</p>
-    <a href="https://t.me/Kabion">Telegram<br></a>
+    <a href="https://t.me/Kabion">Telegram</a>
     <p>Most of my repos are private since yes</p>
 </p>
 
