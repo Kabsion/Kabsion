@@ -8,7 +8,7 @@
 
 ---
 
-<img alt="ya" src="https://cdn.discordapp.com/attachments/826052184713723917/848080274361286676/marchss.gif" align="right"/>
+<img alt="ya" src="https://cdn.discordapp.com/attachments/826052184713723917/848080274361286676/marchss.gif" align="right" width="400" height="500"/>
 
 #### Languages
 - ![Python](https://img.shields.io/badge/-Python-FF008F)
