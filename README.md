@@ -17,6 +17,7 @@
 * [Telegram](https://t.me/Kabion)
 * [Discord](https://discords.com/bio/p/daybreak)
 
-
-<strong align="center">Most of my repos are private</strong>
+<p align="center">
+    Most of my repos are private since yes
+</p>
 
