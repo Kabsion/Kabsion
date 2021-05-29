@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daybreak-keks&layout=compact&theme=dracula"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daybreak-keks&layout=compact&theme=dracula"/>
 </p>
 
 <p align="center">
