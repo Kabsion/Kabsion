@@ -18,5 +18,5 @@
 * [Discord](https://discords.com/bio/p/daybreak)
 
 
-<strong align="center">amongus</strong>
+<strong align="center">Most of my repos are private</strong>
 
