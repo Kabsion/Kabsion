@@ -21,6 +21,3 @@
 
 > NOTE: All my repos are currently private since Yes.
 
-<p align="center">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daybreak-keks&layout=compact&theme=dracula" width="400" height="500"/>
-</p>
