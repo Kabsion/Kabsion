@@ -11,12 +11,12 @@
 <img alt="ya" src="https://cdn.discordapp.com/attachments/826052184713723917/848080274361286676/marchss.gif" align="right" width="600" height="500"/>
 
 #### Languages
-- ![Python](https://img.shields.io/badge/-Python-FF008F)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-FF008F)
+- ![Python](https://img.shields.io/badge/-Python-7230b5)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-7230b5)
 
 #### Programs
-- ![ide](https://img.shields.io/badge/-VS_Codium-FF008F)
-- ![ide2](https://img.shields.io/badge/-PyCharm-FF008F)
+- ![ide](https://img.shields.io/badge/-VSCodium-7230b5)
+- ![ide2](https://img.shields.io/badge/-PyCharm-7230b5)
 
 #### Contact Me
 * [Telegram](https://t.me/Kabion)
