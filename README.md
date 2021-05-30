@@ -1,5 +1,5 @@
 <p align="center">
-   Ways to contact me UwU<br>
+   Ways to contact me UwU:<br>
    <a href="https://t.me/Kabion">Telegram</a>
    <a href="https://github.com/Daybreak-keks">Github</a>
    <a href="mailto:exifeplaybox@protonmail.ch">Email</a>
