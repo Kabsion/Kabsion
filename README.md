@@ -3,12 +3,9 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daybreak-keks&layout=compact&theme=dracula" width="400" height="500"/>
 </p>
 
----
 <p align="center">
     <img src="https://discord.c99.nl/widget/theme-3/483677790449827844.png">
 </p>
-
----
 
 <h1 align="center">Languages I know/I'm Learning</h1>
 <p align="center">
