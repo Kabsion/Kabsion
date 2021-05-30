@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <img src="https://discord.c99.nl/widget/theme-3/483677790449827844.png">
+    <img src="https://discord.c99.nl/widget/theme-3/483677790449827844.png" alt="discord profile real">
 </p>
 
 <h1 align="center">Languages I know/I'm Learning</h1>
@@ -13,5 +13,12 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35" alt="js">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="35" alt="html">
 </p>
+
+<h1 align="center">Statistics</h1>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Daybreak-keks&show_icons=true&theme=dracula&count_private=true&show_icons=true&include_all_commits=true" height="105">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daybreak-keks&layout=compact&theme=dracula" height="105">
+</p>
+
 
 
