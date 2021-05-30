@@ -17,7 +17,7 @@
 
 <h1 align="center">Programs I Use</h1>
 <p align="center">
-    <img src="https://vscodium.com/img/favicon.ico" height="35" alt="VSCodium">
+    <img src="https://raw.githubusercontent.com/VSCodium/vscodium/master/src/resources/linux/code.png" height="35" alt="VSCodium">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" height="35" alt="Pycharm">
 </p>
 <h1 align="center">Statistics</h1>
