@@ -5,22 +5,5 @@
 
 ---
 
-<p align="center">
-    <img alt="ya" src="https://cdn.discordapp.com/attachments/826052184713723917/848080274361286676/marchss.gif" align="right" width="500" height="500"/>
-</p>
-
-<p align="center">
-    <h2>Software I use</h2>
-    <img src="https://img.shields.io/badge/-PyCharm-7230b5">
-    <img src="https://img.shields.io/badge/-VSCodium-7230b5">
-    <h2>Languages</h2>
-    <p>
-    Python<br>some JS<br>a very small amount of HTML n' CSS
-    </p>
-    <h2>Contact Me</h2>
-    <a href="https://discords.com/bio/p/daybreak">Discord</a>
-    <a href="https://t.me/Kabion"><br>Telegram</a>
-    <p><br><br>I am not a nazi.</p>
-    <strong>Most of my repos are private since yes</strong>
-</p>
+<img src="https://discord.c99.nl/widget/theme-3/483677790449827844.png" align="center">
 
