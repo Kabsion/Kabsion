@@ -25,7 +25,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Daybreak-keks&show_icons=true&theme=dracula&count_private=true&show_icons=true&include_all_commits=true" height="135">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daybreak-keks&layout=compact&theme=dracula" height="135">
     <br><br>
-    <img src="https://raw.githubusercontent.com/Daybreak-keks/Daybreak-keks/main/1.gif" alt="pyro">
+    <img src="https://raw.githubusercontent.com/Daybreak-keks/Daybreak-keks/main/1.gif" alt="pyro" height="100">
 </p>
 
 
