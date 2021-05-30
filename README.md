@@ -13,8 +13,8 @@
 
 <h1 align="center">Statistics</h1>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Daybreak-keks&show_icons=true&theme=dracula&count_private=true&show_icons=true&include_all_commits=true" height="105">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daybreak-keks&layout=compact&theme=dracula" height="105">
+    <img src="https://github-readme-stats.vercel.app/api?username=Daybreak-keks&show_icons=true&theme=dracula&count_private=true&show_icons=true&include_all_commits=true" height="135">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daybreak-keks&layout=compact&theme=dracula" height="135">
 </p>
 
 
