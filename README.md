@@ -29,7 +29,7 @@
     <br><br>
     <img src="https://raw.githubusercontent.com/Daybreak-keks/Daybreak-keks/main/1.gif" alt="pyro" height="100">
     <br>
-    <a href="https://daybreak-keks.github.io">website</a>
+    <a href="https://daybreak-keks.github.io">website (is dead)</a>
 </p>
 
 
