@@ -3,11 +3,6 @@
    <a href="https://t.me/Kabion">Telegram</a>
    <a href="https://github.com/Daybreak-keks">Github</a>
    <a href="mailto:exifeplaybox@protonmail.ch">Email</a>
-   <a href="https://discords.com/bio/p/daybreak">Discord</a>
-   <br><br>
-   <img src="https://discord.c99.nl/widget/theme-3/483677790449827844.png" alt="discord profile real">
-   <br>
-   <img src="https://discord.c99.nl/widget/theme-3/176125395563839489.png" alt="discord profile real_2">
 </p>
 
 <h1 align="center">Languages I know/I'm Learning</h1>
