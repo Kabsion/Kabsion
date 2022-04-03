@@ -1,7 +1,7 @@
 <p align="center">
    Ways to contact me:<br>
    <a href="https://t.me/Kabion">Telegram</a>
-   <a href="https://github.com/Daybreak-keks">Github</a>
+   <a href="https://github.com/Kabsion">Github</a>
    <a href="mailto:exifeplaybox@protonmail.ch">Email</a>
 </p>
 
@@ -22,9 +22,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Kabsion&show_icons=true&theme=dracula&count_private=true&show_icons=true&include_all_commits=true" height="135">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabsion&layout=compact&theme=dracula" height="135">
     <br><br>
-    <img src="https://raw.githubusercontent.com/Daybreak-keks/Daybreak-keks/main/1.gif" alt="pyro" height="100">
+    <img src="https://raw.githubusercontent.com/Kabsion/Kabsion/main/1.gif" alt="pyro" height="100">
     <br>
-    <a href="https://daybreak-keks.github.io">website (is dead)</a>
+    <a href="https://Kabsion.github.io">website (is dead)</a>
 </p>
 
 
